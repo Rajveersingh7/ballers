@@ -6,8 +6,7 @@ Built with a modern **React** frontend and a secure, scalable **Node.js/Express/
 ---
 
 # 🎯 Live Demo
-- **Frontend**: [Click Here](https://ballers-frontend.onrender.com)
-- **Backend**: [Click Here](https://ballers-backend.onrender.com) (API only)
+[Click Here](https://ballers-frontend.onrender.com)
 
 ---
 
