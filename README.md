@@ -58,8 +58,7 @@ Built with a modern **React** frontend and a secure, scalable **Node.js/Express/
 ---
 
 ## Deployment:
-- **Frontend**: [Vercel](https://vercel.com)  
-- **Backend**: [Render](https://render.com)  
+- **Frontend and Backend**: [Render](https://render.com)  
 - **Database**: MongoDB Atlas
 
 --- 
